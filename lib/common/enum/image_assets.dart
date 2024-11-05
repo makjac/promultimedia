@@ -1,8 +1,4 @@
 /// Enum `ImageAsset` is used to store paths to image assets.
-///
-/// Each enum value represents an image asset, with `assetName` referring
-/// to the specific file in the assets/images directory, and `extension`
-/// indicating the file format.
 enum ImageAsset {
   onboarding1('onboarding_1', 'png'),
   onboarding2('onboarding_2', 'png'),
