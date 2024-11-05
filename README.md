@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project is a recruitment task for a Flutter Developer position, focused on creating a welcoming experience for users upon launching the app.
+This project is a recruitment task for a Flutter Developer position, focused on creating a onboarding experience for users upon launching the app.
 
 ## Setup
 
