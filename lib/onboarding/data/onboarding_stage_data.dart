@@ -45,7 +45,7 @@ class OnboardingStageData {
       OnboardingStage(
         titleElements: [
           OnboardingTitleElement(text: 'Bądź '),
-          OnboardingTitleElement(text: 'na bieąco', isBold: true),
+          OnboardingTitleElement(text: 'na bieżąco', isBold: true),
           OnboardingTitleElement(text: '!'),
         ],
         imageAsset: ImageAsset.onboarding5,
